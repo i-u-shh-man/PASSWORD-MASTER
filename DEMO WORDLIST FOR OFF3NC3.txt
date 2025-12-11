@@ -1,3 +1,12 @@
+THE INPUTS WERE-
+NAME - AYUSHMAN
+PET NAME - BOB
+YEAR (DIGITS) - 2002
+
+
+
+WORDLIST =
+
 4yu5hm4n
 4yu5hm4n02
 4yu5hm4n123
@@ -334,3 +343,4 @@ bobayushman69
 bobayushman80
 bobayushman90
 bobayushman99
+
