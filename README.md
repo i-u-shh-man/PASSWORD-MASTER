@@ -42,7 +42,7 @@ This module is designed as a **client-based tool** focused on **proactive defens
 ## **2\. PASSWORD MASTER OFF3NC3 (Offense Module)**
 
 
-This module illustrates the methodology of **hackers and attackers** who acquire general information through social media and other mediums (OSINT). It focuses on **security auditing and testing** via algorithmic dictionary generation to demonstrate **how easy it is to crack weak passwords** and the resulting importance of making a strong one.
+This module illustrates the methodology of **hackers and attackers** who acquire general information through social media and other mediums (OSINT). It focuses on **security auditing and testing**, via algorithmic dictionary generation to demonstrate **how easy it is to crack weak passwords**, and the resulting importance of making a strong one.
 
 ### **Key Features:**
 
