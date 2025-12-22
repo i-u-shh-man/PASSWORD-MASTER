@@ -54,7 +54,7 @@ This module illustrates the methodology of **hackers and attackers** who acquire
 * **Advanced Permutations:** Implements Leetspeak substitution (a \-\> 4, e \-\> 3, etc.) and intelligently appends common year suffixes (e.g., 2024, 24\) to create custom wordlists for brute-force attacks.  
 * **Cracking Tool Ready:** Exports the unique, sorted wordlist in the standard .txt format required by tools like Hashcat.
 
-### **⚙️ Prerequisites:**
+### **⚙️Prerequisites:**
 
 * **Python 3.x**  
 * **VS Code** (used for coding and testing)  
