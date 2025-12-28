@@ -12,6 +12,8 @@
 
 The project demonstrates **how attackers use acquired personal information (OSINT)** to create custom wordlists (OFF3NC3), fundamentally underscoring the absolute necessity of creating complex, high-entropy passwords, which the D3F3NC3 module teaches and measures.
 
+
+
 ## **🧭 Repository Structure**
 
 | File | Project | Purpose |
